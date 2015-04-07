@@ -1,3 +1,6 @@
+# This is my test version of the second or third iteration that we worked on in class today.
+# It doesn't really work, but I wanted to try it out to see what would happen.
+
 def ask_for_name
   puts "Hello, What's your name?"
   gets.chomp.upcase
